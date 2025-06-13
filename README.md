@@ -3,7 +3,7 @@
 🎯 Estudante de Engenharia de Software  
 🐱 Programador que pilota código como caça F-22  
 📚 Atualmente aprendendo: C e lógica de programação
-🚀 Projetos em missão: 
+
 
 🧰 Tecnologias
 - C

@@ -13,5 +13,5 @@
 📫 Como me encontrar:
 
 - Email: northdev.contact@gmail.com
-- LinkedIn: linkedin.com/in/joaovictorrantinsilverio/
+- LinkedIn: https://www.linkedin.com/in/joaovictorrantinsilverio/
 - GitHub: https://github.com/northdev

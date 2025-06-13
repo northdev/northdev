@@ -7,7 +7,7 @@
 
 🧰 Tecnologias
 - C
-- Git & GitHub
+- GitHub
 - VSCode
 
 📫 Como me encontrar:

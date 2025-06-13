@@ -1,16 +1,17 @@
-## Hi there 👋
+🐾 North
 
-<!--
-**northdev/northdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Engenharia de Software  
+🐱 Programador que pilota código como caça F-22  
+📚 Atualmente aprendendo: C e lógica de programação
+🚀 Projetos em missão: 
 
-Here are some ideas to get you started:
+🧰 Tecnologias
+- C
+- Git & GitHub
+- VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me encontrar:
+
+- Email: northdev.contact@gmail.com
+- LinkedIn: linkedin.com/in/joaovictorrantinsilverio/
+- GitHub: https://github.com/northdev

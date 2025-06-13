@@ -1,16 +1,16 @@
 🐾 North
 
-🎯 Estudante de Engenharia de Software  
-🐱 Programador que pilota código como caça F-22  
-📚 Atualmente aprendendo: C e lógica de programação
+🎯 Software Engineering Student  
+📚 Actually learning C & Lua (Roblox Studio)
 
 
-🧰 Tecnologias
+🧰 Tecnologies:
 - C
+- Lua (Roblox)
 - GitHub
 - VSCode
 
-📫 Como me encontrar:
+📫 Contact Information:
 
 - Email: northdev.contact@gmail.com
 - LinkedIn: https://www.linkedin.com/in/joaovictorrantinsilverio/

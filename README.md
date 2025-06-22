@@ -1,4 +1,4 @@
-🐾 North
+🧭 North
 
 🎯 Software Engineering Student  
 📚 Actually learning C & Lua (Roblox Studio)

@@ -6,7 +6,6 @@
 
 🧰 Tecnologies:
 - C
-- Lua (Roblox)
 - GitHub
 - VSCode
 

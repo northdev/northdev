@@ -1,13 +1,14 @@
 🧭 North
 
-🎯 Software Engineering Student  
-📚 Actually learning C & Lua (Roblox Studio)
+🎯 2ns Semester Software Engineering
+📚 Actually learning C, Java & Lua (Roblox Studio)
 
 
 🧰 Tecnologies:
 - C
-- GitHub
-- VSCode
+- Java
+- Lua
+
 
 📫 Contact Information:
 

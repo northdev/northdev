@@ -1,6 +1,6 @@
 🧭 North
 
-🎯 2ns Semester Software Engineering
+🎯 2nd Semester Software Engineering
 📚 Actually learning C, Java & Lua (Roblox Studio)
 
 
